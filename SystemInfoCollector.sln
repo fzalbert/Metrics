@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collector", "Collector\Collector.csproj", "{206AB046-5E52-4E3D-B94E-0533AAFA8D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricsApi", "MetricsApi\MetricsApi.csproj", "{5E6C33C7-2158-4E1F-8318-0A48D4041773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{651794FE-246C-49EC-97A4-1537CEEEEE81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206AB046-5E52-4E3D-B94E-0533AAFA8D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206AB046-5E52-4E3D-B94E-0533AAFA8D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206AB046-5E52-4E3D-B94E-0533AAFA8D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206AB046-5E52-4E3D-B94E-0533AAFA8D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6C33C7-2158-4E1F-8318-0A48D4041773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6C33C7-2158-4E1F-8318-0A48D4041773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6C33C7-2158-4E1F-8318-0A48D4041773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6C33C7-2158-4E1F-8318-0A48D4041773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651794FE-246C-49EC-97A4-1537CEEEEE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651794FE-246C-49EC-97A4-1537CEEEEE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651794FE-246C-49EC-97A4-1537CEEEEE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651794FE-246C-49EC-97A4-1537CEEEEE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
